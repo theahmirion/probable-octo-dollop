@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-charcoal: #111013;
+    --bg-plum: #211722;
+    --text-ivory: #F0E8DC;
+    --accent-burgundy: #6D293B;
+    --text-muted: #A9A0A5;
+    --border-subtle: #393039;
+  }
+
+  body {
+    background-color: #111013;
+    color: #F0E8DC;
+    font-family: 'DM Sans', sans-serif;
+  }
+
+  h1, h2, h3, h4, .font-serif-display {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+  }
+
+  .font-prose-reading {
+    font-family: 'Lora', Georgia, serif;
+  }
+}
+
+/* Custom delicate dark scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #111013;
+}
+::-webkit-scrollbar-thumb {
+  background: #393039;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #6D293B;
+}
+
+/* Reading Theme Styles */
+.theme-obsidian {
+  background-color: #111013 !important;
+  color: #F0E8DC !important;
+}
+.theme-plum {
+  background-color: #1d141e !important;
+  color: #f2e9dc !important;
+}
+.theme-warm-parchment {
+  background-color: #f7f1e7 !important;
+  color: #241d20 !important;
+}
+.theme-warm-parchment .reading-content {
+  color: #241d20 !important;
+}
+.theme-warm-parchment .reading-border {
+  border-color: #ded3c5 !important;
+}
+.theme-warm-parchment .reading-muted {
+  color: #6d6461 !important;
+}

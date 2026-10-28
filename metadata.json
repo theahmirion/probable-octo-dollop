@@ -1,0 +1,6 @@
+{
+  "name": "Moonfall Fiction",
+  "description": "An immersive digital sanctuary for dark fiction, psychological stories, melancholic poetry, and intimate reflections by Your Own Gloomy Writer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

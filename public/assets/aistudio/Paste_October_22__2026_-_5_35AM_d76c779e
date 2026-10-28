@@ -1,0 +1,795 @@
+# MASTER WEBSITE BUILD PROMPT — MOONFALL FICTION
+## An Immersive Literary Universe for Dark Fiction
+
+Act as an award-winning digital creative director, senior UI/UX designer, full-stack engineer, literary art director, and product strategist.
+
+Your task is to design, build, test, and deploy **Moonfall Fiction**, a personal writing and publishing platform for a dark-fiction author known as **“Your Own Gloomy Writer.”**
+
+Do not create a generic blog, a basic author portfolio, a Wattpad clone, or a conventional book-selling website.
+
+Build an immersive, visually striking literary destination that feels like entering another world.
+
+The experience must be beautiful enough to capture attention within the first few seconds, sophisticated enough to establish credibility, and comfortable enough that readers genuinely want to stay, read entire chapters, return for new releases, and explore more stories.
+
+The website should feel like a carefully art-directed independent literary publication with its own identity, atmosphere, and emotional character.
+
+---
+
+# 1. THE CREATIVE VISION
+
+**Brand:** Moonfall Fiction
+
+**Author identity:** Your Own Gloomy Writer
+
+**Core concept:** A digital sanctuary for dark fiction, psychological stories, melancholic poetry, intimate reflections, and narratives that linger in the reader's mind.
+
+**Emotional objective:**
+
+When a visitor lands on the website, they should feel:
+
+- Intrigued by something they cannot immediately explain.
+- Drawn into a mysterious, coherent atmosphere.
+- Curious about the stories hidden inside.
+- Comfortable enough to read for an extended period.
+- Connected to the author and the people reading the same work.
+- Motivated to return because there is always another story, chapter, or thought to discover.
+
+The website should evoke the feeling of discovering a forgotten literary archive at midnight, illuminated by a single warm light, with something unsettling waiting between its pages.
+
+However, it must remain elegant and restrained. Do not make it look like a horror-game interface, a fantasy role-playing game, a gothic merchandise shop, or an overdecorated Pinterest template.
+
+**The central design principle: mystery attracts; excellent writing makes people stay.**
+
+---
+
+# 2. VISUAL IDENTITY AND ART DIRECTION
+
+Develop a consistent visual system before building individual pages.
+
+## Color palette
+
+Use a controlled palette:
+
+- Near-black charcoal: `#111013`
+- Deep midnight plum: `#211722`
+- Warm ivory: `#F0E8DC`
+- Muted burgundy: `#6D293B`
+- Muted grey: `#A9A0A5`
+- Subtle divider: `#393039`
+
+Use charcoal for the main environment, ivory for readable text, plum for atmospheric depth, and burgundy for selective emphasis.
+
+Avoid bright red, neon purple, electric blue, oversaturated gradients, and excessive gold.
+
+## Typography
+
+Use an expressive literary serif for display headings and a highly readable serif or neutral sans-serif for body text.
+
+Potential font combinations:
+- Cormorant Garamond for elegant, expressive headings.
+- DM Sans for interface elements and supporting text.
+- A carefully selected readable serif for long-form fiction if it improves the reading experience.
+
+Use deliberate typographic hierarchy, generous line spacing, restrained italic text, and occasional oversized editorial typography.
+
+Typography should feel like a printed literary journal translated into a sophisticated digital environment.
+
+Never sacrifice readability for aesthetic effect.
+
+## Art direction
+
+Use atmospheric imagery with a clear visual concept:
+
+- Moonlight falling through an old window.
+- Empty corridors and distant silhouettes.
+- Rain-streaked glass.
+- A solitary figure disappearing into fog.
+- Faded manuscripts and weathered paper.
+- Bare trees against a dim sky.
+- Empty rooms, abandoned places, and quiet landscapes.
+- Subtle shadows, soft film grain, and natural darkness.
+
+These are possible motifs, not mandatory decorations for every section.
+
+Choose a small number of recurring visual motifs and develop a coherent visual language.
+
+Images must be high quality, compositionally intentional, and optimized for fast loading.
+
+Avoid obvious stock-photo aesthetics, repetitive AI-generated faces, generic fantasy artwork, excessive ornamental borders, glitter, glowing text, floating particles everywhere, and meaningless animations.
+
+Use negative space intentionally. The result must feel designed, not empty.
+
+## Signature visual element
+
+Create a recognizable Moonfall Fiction identity through a restrained combination of moon imagery, editorial typography, shadow, and carefully controlled burgundy accents.
+
+A small crescent-moon symbol, subtle lunar phases, or an original abstract emblem may become part of the brand.
+
+Do not make the moon icon the entire identity. The typography, layout, imagery, and atmosphere must work together.
+
+---
+
+# 3. THE FIRST IMPRESSION: DESIGN THE HOMEPAGE AS AN EXPERIENCE
+
+The homepage is the most important visual priority.
+
+Do not begin with a conventional navigation bar followed by a heading, three cards, and a footer.
+
+Create a cinematic yet lightweight first impression that immediately communicates the identity of Moonfall Fiction.
+
+## Hero section
+
+Design a near-full-screen editorial hero with:
+
+- A dark, atmospheric background image or original artwork.
+- A subtle vignette or dark overlay for text contrast.
+- The Moonfall Fiction wordmark.
+- A small literary eyebrow such as “AN INDEPENDENT LITERARY UNIVERSE.”
+- A compelling headline.
+- A concise statement describing the experience.
+- One prominent action leading to the stories.
+- A secondary action leading to the author's introduction.
+- A subtle visual cue inviting visitors to explore further.
+
+Suggested headline:
+
+**“Some stories don't let you leave.”**
+
+Supporting copy:
+
+“Dark fiction, unfinished thoughts, and the quiet things that follow you long after the final page.”
+
+Primary CTA: **Enter the Stories**
+
+Secondary CTA: **Meet the Writer**
+
+Treat these as starting concepts. Refine the wording if a stronger, more original version emerges, but preserve the atmosphere and literary character.
+
+The hero should feel immersive immediately, without forcing visitors to wait for a long animation or video to load.
+
+## Homepage narrative
+
+Make the homepage unfold like the opening pages of a novel.
+
+### Section 1 — The threshold
+
+Introduce the Moonfall Fiction identity through the hero.
+
+### Section 2 — Enter a story
+
+Feature one flagship novel or current project in a visually distinctive editorial layout.
+
+Include its cover or artwork, title, genre, short hook, synopsis, and a clear reading action.
+
+Do not invent an actual novel, author biography, published work, or chapter content. If real content is not supplied, create clearly labeled demonstration content that can easily be replaced.
+
+### Section 3 — The library
+
+Present novels, short stories, and poetry as distinct literary destinations.
+
+Avoid repeating identical rectangular cards. Use a considered mix of editorial rows, featured artwork, typography-led links, and selected cover grids.
+
+### Section 4 — Recently written
+
+Show the latest published chapters, short stories, poems, and journal entries.
+
+Each item should display its title, content type, publication date, and relevant reading action.
+
+### Section 5 — A note from the writer
+
+Create an intimate, restrained introduction to “Your Own Gloomy Writer.”
+
+This should feel personal and literary, not like a corporate biography.
+
+### Section 6 — The reader's return
+
+Provide an elegant invitation to follow the author, discover upcoming writing, or subscribe to a newsletter if a real subscription integration is configured.
+
+Do not display fake subscriber counts, fake reviews, fabricated activity, or unsupported promises of upcoming releases.
+
+### Section 7 — The closing passage
+
+End the homepage with a visually memorable footer and a final literary line.
+
+The footer should feel like the final sentence of a chapter, not a standard collection of unrelated links.
+
+---
+
+# 4. NAVIGATION AND SITE ARCHITECTURE
+
+Build a clear, responsive navigation system with these primary destinations:
+
+- Home
+- Novels
+- Short Stories
+- Poetry
+- Journal
+- About
+- Connect
+
+Use a restrained desktop navigation and a polished mobile menu.
+
+The interface may include a subtle reading-progress indicator, a compact wordmark, or understated transition effects.
+
+Do not hide essential navigation behind mysterious icons or force visitors to figure out how to use the website.
+
+Mystery belongs in the writing and visual atmosphere, not in basic usability.
+
+Implement these main routes:
+
+- `/` — Homepage
+- `/novels` — Novel library
+- `/novels/[slug]` — Individual novel page
+- `/novels/[slug]/chapters/[chapterSlug]` — Individual chapter
+- `/short-stories` — Short-story collection
+- `/short-stories/[slug]` — Individual short story
+- `/poetry` — Poetry collection
+- `/poetry/[slug]` — Individual poem
+- `/journal` — Blog and author journal
+- `/journal/[slug]` — Individual article
+- `/about` — About the author
+- `/connect` — Contact and social links
+- `/admin` — Protected publishing dashboard
+
+Use clean, permanent URLs that remain understandable as the site grows.
+
+---
+
+# 5. THE NOVEL LIBRARY
+
+The novel library should feel like browsing a curated collection of literary works.
+
+Include:
+
+- Featured novel.
+- Book-cover artwork.
+- Novel title.
+- Short hook.
+- Synopsis.
+- Genre and relevant content warnings.
+- Publication status.
+- Chapter count.
+- Last updated date.
+- A prominent “Begin Reading” action.
+- A clear chapter list.
+
+Allow readers to browse and discover works without overwhelming them with filters.
+
+Where useful, support filtering by genre, status, and other meaningful metadata.
+
+Each novel page must have its own identity while remaining part of the same design system.
+
+## Chapter navigation
+
+Provide a clear table of contents with chapter numbers, titles, and publication status.
+
+Draft and scheduled chapters must never be visible to public readers.
+
+Readers should be able to resume their reading through a clearly presented last-read chapter if a privacy-conscious, reliable implementation is available.
+
+Do not build a complicated account system solely to offer this feature in version one.
+
+---
+
+# 6. THE IMMERSIVE READING EXPERIENCE
+
+This is the heart of the product.
+
+A beautiful homepage is wasted if reading the actual stories feels uncomfortable.
+
+Design the chapter page as a quiet, distraction-free literary environment.
+
+## Reading layout
+
+Include:
+
+- Novel title and breadcrumb navigation.
+- Chapter number and title.
+- Optional epigraph.
+- Estimated reading time, calculated from the actual chapter word count.
+- A clearly readable text column.
+- Comfortable line length and line height.
+- Generous spacing between paragraphs.
+- Proper formatting for italics, dialogue, scene breaks, and quotations.
+- Previous chapter and next chapter navigation.
+- A link back to the novel's table of contents.
+- Chapter-specific comments below the story.
+- A subtle progress indicator where appropriate.
+
+Use a warm, low-glare background and high-contrast text.
+
+Aim for approximately 60–75 characters per line on desktop, with responsive typography and comfortable margins on mobile.
+
+Do not stretch prose across the entire screen.
+
+## Optional reader controls
+
+If feasible without compromising the three-day schedule, provide:
+
+- Light and dark reading themes.
+- Adjustable font size.
+- A simple reading-progress indicator.
+- A bookmark or last-read position.
+- Keyboard navigation where appropriate.
+
+Prioritize actual usability over feature count.
+
+## Reader retention
+
+Encourage readers to continue naturally through the work.
+
+At the end of each chapter, present:
+
+1. Previous chapter, when available.
+2. Next chapter, when published.
+3. Return to the novel.
+4. Chapter discussion.
+5. A small recommendation for another relevant story, where appropriate.
+
+The transition between chapters should be immediate and dependable.
+
+Do not interrupt readers with pop-ups, forced registration, autoplay audio, or newsletter overlays.
+
+The aim is to make the writing compelling enough that readers choose to continue.
+
+---
+
+# 7. CHAPTER-WISE COMMUNITY AND COMMENTS
+
+Every published chapter must have its own persistent discussion section.
+
+This is a core requirement, not an optional decorative component.
+
+Use a real database and a secure server-side implementation.
+
+## Comment functionality
+
+Readers should be able to:
+
+- Comment under a display name.
+- Reply to an existing comment.
+- Like or react to comments.
+- Mark their comment as containing spoilers.
+- Report inappropriate comments.
+- See replies in a clear, readable thread.
+- Return later and find previously published discussions.
+
+Comments must be linked to the correct chapter in the database.
+
+Refreshing the page must not erase comments.
+
+Never implement comments as browser-only state, hardcoded sample arrays, or local storage pretending to be a database.
+
+## Identity and permissions
+
+Choose a sensible authentication model after checking the current free-plan limits.
+
+For the first version, consider:
+- Authenticated reader accounts with display names; or
+- A carefully secured guest-commenting flow with verified or rate-limited submissions.
+
+Do not collect unnecessary personal information.
+
+The author must have a reliable, protected way to manage their own account and moderate discussions.
+
+My author account must have a verified author role stored and enforced server-side.
+
+Display a visible **Author** badge beside my comments and replies.
+
+Never allow readers to assign themselves an author role by editing a request, browser state, or profile field.
+
+## Replies and reactions
+
+Support threaded replies with sensible depth limits.
+
+Prevent duplicate or abusive reaction submissions where practical.
+
+Use database constraints and server-side checks to maintain consistent data.
+
+## Spoilers and reporting
+
+Provide a spoiler toggle when posting a comment.
+
+Spoiler-marked comments should be concealed behind a clear warning until the reader chooses to reveal them.
+
+Allow users to report spam, harassment, abusive content, or spoilers that violate the site's rules.
+
+Reports must be saved to the database and available in the admin dashboard.
+
+## Moderation
+
+Create administrative actions to:
+
+- Remove comments.
+- Hide comments pending review.
+- Review reports.
+- Restrict abusive users when the authentication model supports it.
+- Delete or moderate inappropriate replies.
+- Restore content where appropriate.
+
+Apply rate limits and validation to prevent spam and abuse.
+
+Use database access policies and server-side authorization to prevent unauthorized modifications.
+
+If the chosen service supports Row Level Security, configure and test it.
+
+Never expose database service-role keys, private credentials, or administrative secrets in client-side code.
+
+Do not claim that moderation or spam protection works until the relevant flows have been implemented and tested.
+
+---
+
+# 8. A REAL PUBLISHING DASHBOARD
+
+I must be able to manage the entire publication without asking an AI developer to modify the source code whenever I want to publish something.
+
+Build a protected admin dashboard with a simple, reliable content-management workflow.
+
+## Content management
+
+Allow the administrator to:
+
+- Create, edit, publish, unpublish, and delete novels.
+- Create and reorder chapters.
+- Save chapter drafts.
+- Publish new chapters.
+- Edit short stories.
+- Create and edit poems.
+- Write and manage journal articles.
+- Upload and replace cover artwork.
+- Add descriptions, categories, tags, and publication dates.
+- Preview unpublished content.
+- Manage comments and reports.
+
+Use a rich-text editor or a reliable Markdown editor that supports headings, paragraphs, italics, bold text, quotations, lists, and scene breaks.
+
+Preserve paragraph formatting when content is saved and rendered.
+
+Prevent unpublished content from appearing in public routes, search results, feeds, or metadata.
+
+## Admin experience
+
+The dashboard should be simple rather than visually elaborate.
+
+Include:
+
+- Overview of published content and drafts.
+- A clear content list.
+- Search or filtering.
+- An obvious create-new action.
+- A reliable editor.
+- Publication status.
+- Comment moderation.
+- A logout action.
+
+Require secure authentication and server-side authorization.
+
+Do not rely on hiding the admin URL or hiding interface elements as a security mechanism.
+
+---
+
+# 9. TECHNOLOGY AND ARCHITECTURE
+
+Choose the simplest maintainable architecture that supports all core requirements.
+
+A suitable starting stack to evaluate is:
+
+- Next.js with TypeScript.
+- A responsive styling system such as Tailwind CSS.
+- Supabase for PostgreSQL, authentication, and image storage.
+- A Markdown or rich-text content editor.
+- Vercel or another suitable hosting platform.
+
+This is a proposed starting point, not a requirement to choose these services regardless of their current limitations.
+
+Before committing, verify the current pricing, free-tier quotas, deployment constraints, database limits, storage limits, and commercial-use terms of the relevant services.
+
+I am starting with almost no budget. Prefer free tiers where practical and avoid unnecessary recurring costs.
+
+Do not introduce multiple databases, microservices, complex infrastructure, paid APIs, or additional frameworks without a clear reason.
+
+Keep the architecture modular and document the important decisions.
+
+## Ownership
+
+The project must remain under my control.
+
+Use accounts that I own or explicitly control for hosting, database, authentication, and domain registration.
+
+Provide:
+
+- Complete source code.
+- A Git repository I can access.
+- A `.env.example` file without real secrets.
+- Clear deployment instructions.
+- Database schema and migrations.
+- Database access-policy definitions.
+- A documented backup and restore process.
+- Instructions for transferring maintenance to another developer.
+- A list of third-party services and their limits.
+
+Do not create essential infrastructure under an inaccessible developer-owned account.
+
+## Backups
+
+Design a realistic backup strategy that protects both content and reader discussions.
+
+Document how to export novels, chapters, poems, journal entries, comments, and relevant metadata.
+
+Distinguish between automated backups and manual exports.
+
+If automated backups are unavailable on a free plan, provide a workable alternative and explain its limitations.
+
+A backup is not reliable until restoration has been considered and tested.
+
+---
+
+# 10. PERFORMANCE, SEO, ACCESSIBILITY, AND SECURITY
+
+## Performance
+
+The site must work well on desktop and mobile, including slower connections.
+
+- Optimize images and use responsive image sizes.
+- Avoid unnecessarily large background videos.
+- Lazy-load noncritical imagery.
+- Minimize JavaScript and third-party scripts.
+- Avoid excessive animation libraries.
+- Prevent layout shifts.
+- Use sensible caching and loading states.
+- Optimize the reading experience for fast initial rendering.
+
+## SEO
+
+Implement:
+
+- Unique page titles and meta descriptions.
+- Canonical URLs.
+- Open Graph metadata.
+- A sitemap.
+- A robots.txt file.
+- Structured data where appropriate.
+- Semantic HTML.
+- Descriptive image alt text.
+- Clean chapter, novel, and article URLs.
+- Appropriate indexing rules for public and private content.
+
+Published stories should be discoverable by search engines.
+
+Drafts, admin routes, private information, and unpublished content must not be exposed.
+
+Do not assume that blocking a URL in robots.txt makes private content secure.
+
+## Accessibility
+
+Support:
+
+- Keyboard navigation.
+- Visible focus indicators.
+- Sufficient color contrast.
+- Meaningful heading hierarchy.
+- Accessible form labels.
+- Clear error messages.
+- Reduced-motion preferences.
+- Usable touch targets.
+
+Dark aesthetics must never come at the expense of accessibility.
+
+## Security
+
+Validate user input on the server.
+
+Use safe rendering and output escaping to prevent cross-site scripting.
+
+Protect authentication and administrative operations.
+
+Use appropriate database policies, secure environment variables, and rate limiting.
+
+Add spam protections that do not unnecessarily burden legitimate readers.
+
+Never expose private credentials, sensitive user data, or unpublished writing.
+
+---
+
+# 11. THE CONNECT AND AUTHOR EXPERIENCE
+
+Create an About page that supports the identity of “Your Own Gloomy Writer.”
+
+It should include:
+
+- An author introduction.
+- A writing philosophy.
+- A short account of the writing journey.
+- Selected works.
+- Links to writing platforms.
+- An invitation to discover or discuss the stories.
+
+Do not invent personal biographical details.
+
+Create a Connect page with editable social links for Instagram, Substack, and any additional writing platforms.
+
+Use real external destinations supplied by me. Never invent account handles or links.
+
+If a newsletter integration is feasible within the budget, implement it properly. Otherwise, provide a simple external subscription link.
+
+Do not build an unnecessary custom newsletter backend.
+
+---
+
+# 12. DESIGN DETAILS THAT MAKE THE WEBSITE MEMORABLE
+
+Pay close attention to the details that distinguish a premium literary experience from a template.
+
+Use:
+
+- Beautifully composed typography.
+- Distinctive title treatments.
+- Asymmetric editorial layouts where appropriate.
+- Deliberate image cropping.
+- Strong contrast between featured stories and supporting content.
+- Consistent page transitions.
+- Subtle hover states.
+- Elegant chapter separators.
+- Tasteful reveal animations.
+- A clear visual rhythm between dark surfaces and warm reading areas.
+
+Motion should be restrained and purposeful.
+
+If an animation does not improve comprehension, atmosphere, or interaction, remove it.
+
+The website should still feel beautiful when animations are disabled.
+
+Do not add:
+- Random glowing particles.
+- Constantly moving backgrounds.
+- Fake live-reader counters.
+- Fake reviews or testimonials.
+- Excessive parallax.
+- Artificial urgency.
+- Intrusive pop-ups.
+- Fake loading screens.
+- Generic AI-generated book covers for every story.
+- Empty sections filled with decorative cards.
+
+Use polished loading, empty, error, and success states.
+
+The final result should feel handcrafted, literary, immersive, and consistent.
+
+---
+
+# 13. THE THREE-DAY IMPLEMENTATION PLAN
+
+The first release must be realistic.
+
+Do not spend three days perfecting the hero while leaving the publishing system and comments nonfunctional.
+
+## Day 1 — Foundation and visual identity
+
+- Establish the design system.
+- Build the homepage.
+- Implement responsive navigation.
+- Build the novel, short-story, poetry, and journal indexes.
+- Create the core content data model.
+- Establish reusable page layouts.
+- Create sample content clearly labeled as demonstration content.
+
+**Deliverable:** A coherent, responsive website with the correct visual identity and working page structure.
+
+## Day 2 — Publishing and community
+
+- Implement the database schema.
+- Configure authentication and access policies.
+- Build the admin dashboard.
+- Implement content creation and editing.
+- Implement draft and publication states.
+- Build chapter pages.
+- Implement persistent chapter-specific comments.
+- Implement replies, reactions, reporting, and author badges.
+- Add moderation controls.
+
+**Deliverable:** A working content-management and reader-discussion system.
+
+## Day 3 — Quality and deployment
+
+- Test the complete publishing workflow.
+- Test chapter navigation.
+- Test comment persistence after refresh.
+- Test reader permissions and administrative permissions.
+- Test moderation and report handling.
+- Test responsive layouts.
+- Optimize images and page performance.
+- Add metadata, sitemap, and other SEO essentials.
+- Configure deployment and environment variables.
+- Document ownership, backups, and restoration.
+- Fix critical bugs.
+
+**Deliverable:** A deployed, usable first release with tested core functionality and documented maintenance procedures.
+
+If any feature threatens the core release, simplify the implementation rather than pretending it is complete.
+
+Never claim that a feature has been implemented, a service is free, a deployment succeeded, or a security policy works without verifying it.
+
+---
+
+# 14. ACCEPTANCE TESTS — DEFINITION OF DONE
+
+The project is not complete simply because the homepage looks beautiful.
+
+Verify the following:
+
+1. A visitor can open the website on a phone and desktop.
+2. Visitors can browse novels, short stories, poetry, and journal entries.
+3. A novel has an accessible chapter list.
+4. Readers can move between published chapters.
+5. Chapter typography is comfortable for extended reading.
+6. An administrator can log in securely.
+7. An administrator can create, edit, draft, publish, and unpublish content without changing code.
+8. A newly published chapter appears publicly without a code deployment.
+9. A reader can post a chapter-specific comment.
+10. The comment remains after refreshing the page.
+11. A reader can reply and react to comments.
+12. Spoiler handling and reporting work.
+13. The author's verified account displays the Author badge.
+14. Unauthorized users cannot perform administrative actions.
+15. Unpublished content is not publicly accessible.
+16. The administrator can moderate comments and reports.
+17. Database permissions prevent unauthorized access.
+18. Source code and project configuration are accessible to me.
+19. The backup process is documented and restoration is feasible.
+20. Essential pages have working metadata and sensible error states.
+
+If a test fails, report it clearly and fix it where possible.
+
+---
+
+# 15. HOW TO WORK
+
+Before writing code:
+
+1. Inspect the capabilities and limitations of the current development environment.
+2. Identify the available deployment and database integrations.
+3. Check current service pricing and free-plan limits using official sources.
+4. Propose the simplest architecture that satisfies the requirements.
+5. Identify any decision that requires my approval before committing money or creating an account.
+
+Then build the project rather than returning only a design proposal.
+
+Do not stop after producing a homepage mockup.
+
+Do not replace working database functionality with visual placeholders.
+
+Do not invent API keys, credentials, user accounts, social URLs, or completed deployment steps.
+
+If you need me to create or connect an account, tell me exactly what to do and why.
+
+When finished, provide:
+
+- The deployed website URL, if deployment is available.
+- The source repository location.
+- The technologies used.
+- The implemented features.
+- The features that remain incomplete.
+- Any services that require configuration.
+- Any potential ongoing costs.
+- Instructions for publishing my first real novel and chapter.
+- Instructions for backing up my content.
+
+Prioritize a functioning product, an unforgettable visual identity, and long-term ownership over unnecessary technical sophistication.
+
+---
+
+# FINAL CREATIVE DIRECTIVE
+
+Moonfall Fiction should not look like a website that happens to contain dark stories.
+
+**It should feel like the world those stories came from.**
+
+The first screen should make visitors curious. The library should invite exploration. The reading experience should make them forget the interface exists. The chapter discussions should make them feel that other people have been haunted by the same words.
+
+Make the website visually arresting without becoming exhausting. Make it immersive without becoming confusing. Make it elegant without becoming sterile. Make it dark without sacrificing readability.
+
+Build something readers will remember even after they close the tab.
+
+The standard is not “a nice dark website.”
+
+The standard is **a distinctive literary home that earns its place in a reader's bookmarks.**

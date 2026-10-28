@@ -1,0 +1,322 @@
+{
+  "authorProfile": {
+    "name": "Your Own Gloomy Writer",
+    "penName": "Your Own Gloomy Writer",
+    "tagline": "Chronicler of silence, psychological shadows, and words written after midnight.",
+    "biography": "I write for those who find solace when the rest of the world has gone to sleep. My stories inhabit the quiet margins where memory fractures, where old houses keep secrets, and where grief takes on physical weight.",
+    "philosophy": "Dark fiction is not about terror for sensation's sake; it is an examination of what remains when daylight illusions are stripped away. Fear is simply love's most vulnerable silhouette. In dark fiction, we do not invite tragedy—we acknowledge the quiet shadows that are already there.",
+    "journey": "What began as unaddressed fragments written in the margins of discarded ledgers grew into Moonfall Fiction. An independent sanctuary free from algorithms, clickbait, and transient trends—dedicated solely to the timeless cadence of the written word.",
+    "socials": {
+      "instagram": "https://instagram.com/moonfallfiction",
+      "substack": "https://moonfallfiction.substack.com",
+      "goodreads": "https://goodreads.com/author/yourowngloomywriter",
+      "email": "gloomywriter@moonfallfiction.com"
+    },
+    "newsletterLink": "https://moonfallfiction.substack.com"
+  },
+  "novels": [
+    {
+      "id": "novel-1",
+      "slug": "the-ashen-clocktower",
+      "title": "The Ashen Clocktower",
+      "hook": "A lonely keeper, a bell that strikes only for the dead, and the coastal fog that swallowed an entire century.",
+      "synopsis": "Perched atop the jagged obsidian crags of Cape Perdition, the Ashen Clocktower has stood for three hundred years. When Julian Ross arrives to assume duty as the clockwork custodian, he discovers the great bronze bell possesses no tongue—yet on windless nights, when the tide recedes beneath the cliffs, a resonant chime echoes through the spiral corridors. As Julian deciphers the clockmaker's encrypted journals, he realizes the mechanism does not count passing hours, but the unremembered lives of those who walked into the sea.",
+      "genre": "Gothic Mystery · Psychological Dread",
+      "contentWarnings": [
+        "Psychological isolation",
+        "Unreliable narrator",
+        "Oceanic dread"
+      ],
+      "status": "published",
+      "coverImage": "/src/assets/images/flagship_novel_cover_1792629538397.jpg",
+      "featured": true,
+      "publicationDate": "2026-03-12",
+      "lastUpdated": "2026-10-18",
+      "chapters": [
+        {
+          "id": "chap-1-1",
+          "novelId": "novel-1",
+          "slug": "chapter-1-the-bell-without-a-tongue",
+          "chapterNumber": 1,
+          "title": "The Bell Without a Tongue",
+          "epigraph": "“Time does not advance by gears; it is pulled forward by what we refuse to mourn.” — Notes of Tobias Ward, 1884",
+          "wordCount": 840,
+          "estimatedReadTime": 4,
+          "status": "published",
+          "publishedAt": "2026-03-12",
+          "lastUpdated": "2026-03-12",
+          "content": "The carriage driver refused to approach within a half-mile of the promontory.\n\nHe dropped Julian Ross's brass-cornered trunk onto the cold shingle with a hollow thump that scattered sea-lice and salt-grass. When Julian offered a silver half-crown, the driver drew his woolen scarf tighter across his mouth and shook his head, turning his dapple-grey mare around without speaking a syllable.\n\nThe wind from the northern strait tasted of wet slate and rusted iron. Above, the Ashen Clocktower thrust upward from the jagged volcanic headland like a charred rib bone. Its dark granite masonry was slick with sea-spray, blackened by centuries of brine and the coal-smoke of forgotten lighthouses.\n\nJulian lifted his trunk by its worn leather handle and began the ascent.\n\nThe stone stairway carved into the cliff face had no parapet. To his left, the cliff plunged eighty vertical feet into churning white foam that crashed against obsidian needles. With every gust, the salt mist clung to his eyelashes, blurring the dark vertical tower ahead.\n\nAt the summit stood the iron-studded oak door. It gave under the weight of his shoulder with a sigh of cold air that carried the scent of paraffin oil, camphor, and antique paper.\n\nJulian paused upon the threshold. Inside, the silence was not the absence of sound, but an intentional presence.\n\nIn the center of the entrance hall hung the pendulum. It was cast of blackened bell-metal, seven feet long, swinging with a slow, hypnotic regularity through an arc of ten degrees. Yet beneath the vault, there was no ticking. Only the low whisper of air displaced by the heavy weight.\n\nJulian climbed the spiral staircase of cast iron toward the belfry. Three hundred and twelve steps, spiraling counter-clockwise. At each landing, narrow arrow-slits revealed the darkening sea below.\n\nWhen he reached the top chamber, the great bell hung before him.\n\nIt was vast, cast in green-patinated bronze, decorated with reliefs of drowning ships and faceless mourners. Julian approached it, raising his paraffin lantern.\n\nThe center of the bell was empty. There was no clapper. No iron tongue hung within its reverberant hollow. It had been intentionally sawn away at the root, the metal scarred and scored by ancient chisels.\n\nJulian reached out with his bare knuckles and struck the outer flange.\n\nThe sound was a dry, dead clink.\n\nHe turned toward the warden's desk to unpack his ledger. But as his heel touched the first stair of the descent, a chime rang out.\n\nIt was not a memory. It resonated deep within the hollow bones of his chest—a low, cavernous G-sharp that vibrated through the floor joists and sent ripples across the oil in his lantern.\n\nJulian froze. He turned back.\n\nThe great bell hung motionless in the dim lantern light. The clapper was still gone. But outside, far beneath the cliffs, where the black tide receded over the mudflats, something answered with the sound of many slow steps ascending the stone."
+        },
+        {
+          "id": "chap-1-2",
+          "novelId": "novel-1",
+          "slug": "chapter-2-footsteps-in-the-salt-fog",
+          "chapterNumber": 2,
+          "title": "Footsteps in the Salt Fog",
+          "epigraph": "“A threshold crossed in darkness cannot be re-crossed by the light of day.”",
+          "wordCount": 790,
+          "estimatedReadTime": 4,
+          "status": "published",
+          "publishedAt": "2026-03-19",
+          "lastUpdated": "2026-03-19",
+          "content": "Sleep did not come to the custodian's quarters on the fourth tier.\n\nThe bedstead was narrow, framed in dark walnut that creaked whenever Julian shifted his weight. Outside his casement, the salt fog pressed against the diamond panes like wet wool, blotting out the stars, the cliffs, and the churning strait below.\n\nBy three in the morning, the damp had found its way into his marrow. He lit the small paraffin heater beside his desk and opened the custodian's logbook left by his predecessor, Mr. E. Callow.\n\nThe entries were written in a crabbed, feverish script that degraded as the months progressed.\n\n*May 14 — Checked escape escapement. Gear three worn by salt dust. Lubricated with whale oil.*\n*June 02 — Fog thick today. Heard three strikes at dawn. Searched the tower. Alone.*\n*July 19 — The tide does not follow the moon here. It follows the bell.*\n*August 08 — If someone knocks on the fifth-tier hatchway, do not ask who it is. Just count to seventy.*\n\nJulian placed his palm flat upon the damp parchment. The final entry ended in a sharp diagonal tear, as if the pen had been dragged violently across the page before being dropped.\n\nThen, from the staircase below, came the sound.\n\n*Tap. Shhhlp. Tap. Shhhlp.*\n\nIt was the wet, dragging cadence of waterlogged boots on iron steps. The spiral stairs acted as a whispering gallery, funneling the acoustics straight into the chamber.\n\nJulian reached for the heavy brass poker beside the hearth. His heart struck a frantic meter against his ribs.\n\n\"Callow?\" he called out, his voice thin against the stone walls.\n\nThe dragging ceased.\n\nSilence flooded back into the stairwell. Julian held his breath for thirty seconds. Nothing. Only the low, heavy displacement of the pendulum swinging four stories below.\n\nHe took a step toward the iron latch of his bedroom door. Just as his fingers closed around the cold metal, a soft pressure leaned against the outside panels.\n\nThe wood groaned. The latch lifted by a quarter of an inch, then fell back with a sharp click.\n\n\"I have the key,\" a woman's voice whispered through the keyhole. It was so close Julian could feel the faint chill of her exhalation across the skin of his knuckles.\n\n\"Julian. Open the door before the chime begins again. We have so little time between the tides.\""
+        },
+        {
+          "id": "chap-1-3",
+          "novelId": "novel-1",
+          "slug": "chapter-3-the-geometry-of-forgetting",
+          "chapterNumber": 3,
+          "title": "The Geometry of Forgetting",
+          "epigraph": "“To build a clock is to construct a prison for things that never wished to exist.”",
+          "wordCount": 920,
+          "estimatedReadTime": 5,
+          "status": "published",
+          "publishedAt": "2026-04-02",
+          "lastUpdated": "2026-04-02",
+          "content": "Julian did not turn the key.\n\nInstead, he backed away from the door until his shoulder blades pressed against the chimney breast. The warmth of the bricks was cold comfort against the freezing draft seeping beneath the threshold.\n\n\"Julian,\" the voice repeated. It was neither pleading nor menacing; it carried the calm, flat certainty of water finding its level.\n\nHe kept his teeth clenched so they would not chatter. He counted silently, remembering Callow's ragged entry.\n\n*One. Two. Three...*\n\nAt forty, the soft pressure against the oak planks subsided. At sixty-eight, the faint smell of wet kelp and stagnant estuary air cleared from the keyhole.\n\nAt seventy, Julian exhaled.\n\nWhen dawn finally tinted the fog with the pale color of skimmed milk, Julian unbolted the door. The stone landing was dry. But in the fine dust that gathered in the corners of the cast-iron tread, there were no footprints—only narrow, parallel lines, like the hem of a heavy wet shroud dragged across the metal.\n\nHe took his lantern and descended past the entrance hall, down into the foundation vault beneath the headland.\n\nThe original plans of the tower, drafted in 1714 by the architect Malachi Thorne, showed only four basement chambers. Julian had discovered five.\n\nThe fifth chamber had no door. It was accessible only through a gap where the foundation stones had fractured along a natural seismic fault. Julian squeezed his thin frame through the fissure.\n\nThe chamber inside was circular, lined not with granite, but with thousands of narrow terracotta pigeonholes, like an apothecary's cabinet or an urn vault.\n\nInside each slot lay a rolled slip of parchment tied with lead wire.\n\nJulian pulled one free with trembling fingers. The wire broke in his hand, powdery with corrosion. He unrolled the strip under the yellow flame of his wick.\n\nWritten upon it, in ink that had faded to sepia:\n\n*Evelyn Ross — 7 years, 4 months. Drowned in the mill race, Michaelmas, 1891. Forgotten by mother, 1898. Forgotten by brother, 1904.*\n\nJulian dropped the parchment as if it had burst into fire.\n\nHis hand shook so violently the glass lantern chimney rattled against its frame. Evelyn. The name struck a chord so deep within his memory it produced physical nausea. He had never had a sister. His childhood in Leeds had been solitary, raised by an uncle who spoke only in accounts and ledgers.\n\nYet as he stared at the little terracotta niche, an image bloomed behind his eyes: red curls tied with a blue ribbon, standing by the sluice gate of the mill, calling his name across the black churning water.\n\nThe tower was not a clock.\n\nIt was an archive of things stolen from human recollection, rung out into the cold sea whenever a family finally stopped mourning."
+        },
+        {
+          "id": "chap-1-4",
+          "novelId": "novel-1",
+          "slug": "chapter-4-the-drowned-archive",
+          "chapterNumber": 4,
+          "title": "The Drowned Archive",
+          "epigraph": "“Those who descend do not return unchanged.”",
+          "wordCount": 1100,
+          "estimatedReadTime": 5,
+          "status": "draft",
+          "publishedAt": "2026-10-22",
+          "lastUpdated": "2026-10-22",
+          "content": "[DRAFT CONTENT — AUTHOR WORKSPACE]\nJulian stepped deeper into the subterranean crypt. The salt water was now pooling around his ankles..."
+        }
+      ]
+    },
+    {
+      "id": "novel-2",
+      "slug": "the-conservatory-of-ashes",
+      "title": "The Conservatory of Ashes",
+      "hook": "Inside the dead botanist's winter glasshouse, the rarest flowers bloom only in the presence of sorrow.",
+      "synopsis": "In the neglected estate of Blackwood Moor, the grand Victorian conservatory stands fractured and overgrown. Inherited by Clara Moreau following her estranged father's disappearance, the glasshouse is home to a subterranean species of nocturnal flora that feed not on soil, but on repressed human memories. To save her family from erasure, Clara must prune the lethal vines that have taken root in her own thoughts.",
+      "genre": "Gothic Botanical · Psychological Mystery",
+      "contentWarnings": [
+        "Body horror (mild)",
+        "Grief",
+        "Derealization"
+      ],
+      "status": "published",
+      "coverImage": "/src/assets/images/glasshouse_novel_cover_1792629557476.jpg",
+      "featured": false,
+      "publicationDate": "2026-06-04",
+      "lastUpdated": "2026-09-30",
+      "chapters": [
+        {
+          "id": "chap-2-1",
+          "novelId": "novel-2",
+          "slug": "chapter-1-blackened-glass",
+          "chapterNumber": 1,
+          "title": "Blackened Glass",
+          "epigraph": "“The seed remembers the winter long after the gardener has forgotten the frost.”",
+          "wordCount": 710,
+          "estimatedReadTime": 4,
+          "status": "published",
+          "publishedAt": "2026-06-04",
+          "lastUpdated": "2026-06-04",
+          "content": "The glass smelled of old soot and copper.\n\nClara stood before the iron archway of the Blackwood conservatory. Even under the midday sun, the interior was drowned in twilight; twenty years of coal fog and dead ivy had turned the curved panes opaque.\n\nHer father's will had been terse: *“Burn the orchids. Do not look upon the third terrarium when the lanterns are unlit.”*\n\nShe pushed the door. It groaned on rust-pitted hinges, releasing a gust of warm, suffocating humidity. The air inside felt like breathing through damp wool.\n\nFerns with leaves like blackened lace cascaded from hanging wire baskets. Beneath her boots, broken shards of glass crunched into wet peat.\n\nIn the center of the atrium stood the glass bell of the third terrarium.\n\nInside, suspended in a sphere of pale amber oil, hung a single flower. Its petals were the exact shade of bruised skin, veined in deep indigo. As Clara stepped closer, the petals twitched. Not in response to a breeze—the glass was airtight—but as if sensing the warmth of her throat through the crystal.\n\nBeneath the flower, half-submerged in the peat, lay her mother's wedding band."
+        },
+        {
+          "id": "chap-2-2",
+          "novelId": "novel-2",
+          "slug": "chapter-2-vines-of-memory",
+          "chapterNumber": 2,
+          "title": "Vines of Memory",
+          "epigraph": "“Roots do not ask permission before they drink.”",
+          "wordCount": 820,
+          "estimatedReadTime": 4,
+          "status": "published",
+          "publishedAt": "2026-06-18",
+          "lastUpdated": "2026-06-18",
+          "content": "By evening, the temperature inside the glasshouse rose contrary to all reason.\n\nWhile frost bloomed on the outer stones of the courtyard, the air within the conservatory grew heavy and tropical. Clara sat at her father's dissecting table, examining the diary she had pried from the iron safe.\n\n*“September 12 — The root system has breached the cellar floor. It does not seek water. It seeks the emotional resonance of grief. When Martha died, the bloom tripled in diameter within four hours.”*\n\nClara touched the edge of the diary. A tiny thorn, thin as a hair, was embedded in the calfskin binding.\n\nShe pricked her index finger. A bead of dark blood welled upon her skin.\n\nAt once, the great climbing vine that shrouded the eastern wall rustled. Tendrils like dark sinew uncurled from the iron rafters, reaching downward toward the glow of her oil lamp.\n\nAnd Clara heard, faintly through the glass panes above, the sound of her mother softly humming a lullaby she had not heard in twenty-four years."
+        }
+      ]
+    }
+  ],
+  "shortStories": [
+    {
+      "id": "story-1",
+      "slug": "letters-from-an-unnamed-station",
+      "title": "Letters from an Unnamed Station",
+      "hook": "Every night at 3:14 AM, the empty ticket slot drops a stamped envelope addressed to someone who never arrived.",
+      "synopsis": "An overnight stationmaster at a rural railway junction that was decommissioned forty years ago continues his quiet vigil, receiving correspondence from destinations that no longer exist on any map.",
+      "genre": "Liminal Fiction · Melancholy",
+      "status": "published",
+      "coverImage": "/src/assets/images/typewriter_candle_art_1792629576082.jpg",
+      "wordCount": 1250,
+      "estimatedReadTime": 6,
+      "publishedAt": "2026-05-18",
+      "content": "The clock above platform two stopped in October of 1974. Its brass hands remain wedged at seventeen minutes past eleven, frozen in the posture of a scissors about to cut a thread.\n\nI keep the kerosene lanterns trimmed because the timetables, though long out of print, still demand it.\n\nEvery night at precisely 3:14 AM, the iron slot beneath the brass ticket window produces a click. Not the violent snap of a mechanism in haste, but the polite drop of paper falling against varnished mahogany.\n\nI walk from my stove, pick up the envelope, and blow the dust from the stamp.\n\nTonight's letter is postmarked *Saint Jude-in-the-Fens, November 3, 1928*.\n\nThe ink is sepia, written in a hand that never learned to hurry:\n\n*“Dearest Margaret,*\n*The rain has stopped here, but the rails are covered in pine needles. The conductor told us we must wait until morning for the engine from Carlisle. Do not leave the lamp in the window; the fog is too thick to see it from the lane. I am carrying your grandfather's pocket watch. It hasn't lost a minute since we crossed the viaduct.*\n*Yours in patience,*\n*Thomas.”*\n\nI set the letter on the counter beside the other seventy-two.\n\nMargaret never came to collect them. The village of Saint Jude-in-the-Fens was flooded when the reservoir was created in 1952; today, trout swim through the church choir and the churchyard crosses stand beneath thirty fathoms of dark water.\n\nYet tomorrow night, at 3:14 AM, Thomas will write again. He will describe the tea they served in the third-class carriage, the whistling wind through the ventilator, and how much he longs to step onto the dry stones of platform two.\n\nSometimes I think the trains never truly leave. It is only the world around them that slips away."
+    },
+    {
+      "id": "story-2",
+      "slug": "the-mirror-in-room-14",
+      "title": "The Mirror in Room 14",
+      "hook": "The reflection is always half a second slower than the person standing before it. Tonight, it did not follow at all.",
+      "synopsis": "A restorer of antique mercury mirrors accepts a commission in an old boarding house, only to realize the glass has preserved the final expressions of everyone who looked into it.",
+      "genre": "Psychological Horror · Atmospheric",
+      "status": "published",
+      "coverImage": "/src/assets/images/moonfall_hero_nocturne_1792629519153.jpg",
+      "wordCount": 1100,
+      "estimatedReadTime": 5,
+      "publishedAt": "2026-07-29",
+      "content": "Mercury glass is unforgiving. Unlike modern silvered mirrors which reflect with crisp, emotionless efficiency, an eighteenth-century mercury back has a softness—a misty, pewter depth that holds shadows longer than it should.\n\nIn Room 14 of the Penshaw Guesthouse, the pier glass reached from baseboard to cornice.\n\nThe owner had asked me to strip the mottled oxidation from its corners. \"Guests complain that their faces look hollow,\" he told me, avoiding my eye.\n\nOn my third evening of chemical stripping, I wiped away a layer of yellowed varnish with my cotton rag.\n\nIn the center of the glass, my reflection looked back.\n\nI raised my right hand to wipe sweat from my temple. My reflection did not move. It stood with both arms hanging at its sides, staring out into the room with dark, dilated pupils.\n\nI stopped breathing.\n\nFor seven agonizing seconds, we observed one another. Then, slowly, with an expression of quiet apology, the man inside the glass stepped backward into the darkness of a corridor that did not exist in Room 14."
+    }
+  ],
+  "poetry": [
+    {
+      "id": "poem-1",
+      "slug": "nocturne-for-a-wavering-flame",
+      "title": "Nocturne for a Wavering Flame",
+      "status": "published",
+      "publishedAt": "2026-04-14",
+      "notes": "Written at 2:00 AM during the autumn rains.",
+      "stanzas": [
+        "The wick drowns in its own white tallow,\nA brief and desperate amber tooth\nBiting into the room's deep marrow,\nDemanding tribute from the truth.",
+        "Outside, the cedar branches scrape\nAgainst the leaded diamond pane,\nLike grief that has forgotten shape\nAnd only knows the rhythm of rain.",
+        "We keep our vigil with the dead\nNot for their peace, but for our own;\nFor every gentle word unsaid\nHardens slowly into stone."
+      ]
+    },
+    {
+      "id": "poem-2",
+      "slug": "the-architecture-of-winter",
+      "title": "The Architecture of Winter",
+      "status": "published",
+      "publishedAt": "2026-08-03",
+      "notes": "Reflections on solitude and empty spaces.",
+      "stanzas": [
+        "Frost is the architect that builds\nWithout an iron beam or nail;\nA quiet cathedral that chills\nThe weary traveller on the trail.",
+        "Here in the silence of the frost,\nNo promises are asked or given;\nThe ledger of the things we lost\nIs balanced under silent heaven."
+      ]
+    },
+    {
+      "id": "poem-3",
+      "slug": "silt-and-solitude",
+      "title": "Silt and Solitude",
+      "status": "published",
+      "publishedAt": "2026-09-15",
+      "notes": "For the lonely hours.",
+      "stanzas": [
+        "Let the river have what it demands:\nThe faded sleeve, the broken ring,\nThe quiet silt of empty hands\nThat never learned to hold a thing.",
+        "For what goes down into the deep\nIs neither cursed nor forgiven;\nIt only sleeps the ancient sleep\nFar from the noise of living."
+      ]
+    }
+  ],
+  "journal": [
+    {
+      "id": "journal-1",
+      "slug": "on-writing-in-the-hour-between-night-and-dawn",
+      "title": "On Writing in the Hour Between Night and Dawn",
+      "excerpt": "There is a clarity that belongs only to 3:00 AM, when the defenses of the conscious mind collapse and the uninvited sentences arrive.",
+      "status": "published",
+      "publishedAt": "2026-08-20",
+      "tags": [
+        "Craft",
+        "Solitude",
+        "Nightfall"
+      ],
+      "content": "People often ask why my stories take place almost exclusively under cover of dark, fog, or winter rain.\n\nThe answer is practical before it is aesthetic.\n\nDuring the daytime, our minds are cluttered by transaction. We calculate, we commute, we justify our existence in emails and polite courtesies. But between three and five in the morning, that apparatus shuts down. The world outside falls silent. The hum of refrigerators and distant freeways recedes.\n\nIn that quiet vacuum, the things you have spent weeks running from sit down on the other side of your desk.\n\nA writer of dark fiction does not create monsters; we simply offer a chair to the sorrow that everyone else is too busy to acknowledge. When Julian Ross enters the Ashen Clocktower, he is not fighting external demons. He is sitting in the dark with the quiet horror of a life he forgot to live.\n\nIf you are reading these words tonight, past your bedtime, with only the cold glow of your screen for company—know that you are not alone in the quiet. Some of us make our homes here."
+    },
+    {
+      "id": "journal-2",
+      "slug": "why-darkness-holds-more-truth-than-daylight",
+      "title": "Why Darkness Holds More Truth Than Daylight",
+      "excerpt": "Sunlight is flattering, but darkness is honest. It hides nothing because it pretends to offer nothing.",
+      "status": "published",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "Philosophy",
+        "Reflections"
+      ],
+      "content": "We are taught from childhood to fear the dark, to fill every corner with halogen and fluorescence, as if shadow were an infection.\n\nYet every profound realization of human life occurs in obscurity. In the quiet of a hospital corridor at midnight. In the dim corner of an archive where forgotten letters sleep. In the space between two breaths before sleep.\n\nMoonfall Fiction was built as a digital refuge from the blinding glare of modern noise. It is designed to be read slowly, with deliberate cadence.\n\nMay you find in these pages the quiet companionship that daylight rarely affords."
+    }
+  ],
+  "comments": [
+    {
+      "id": "comm-1",
+      "chapterId": "chap-1-1",
+      "parentId": null,
+      "authorName": "Eleanor Vance",
+      "isAuthor": false,
+      "content": "The cadence of this opening chapter is breathtaking. The description of the bell-metal pendulum swinging in absolute silence gave me chills.",
+      "isSpoiler": false,
+      "likesCount": 15,
+      "isReported": false,
+      "isHidden": false,
+      "createdAt": "2026-03-14T21:42:00Z"
+    },
+    {
+      "id": "comm-2",
+      "chapterId": "chap-1-1",
+      "parentId": "comm-1",
+      "authorName": "Your Own Gloomy Writer",
+      "isAuthor": true,
+      "content": "Thank you, Eleanor. That silence is the real protagonist of the tower; the gears only exist to measure how deep it goes.",
+      "isSpoiler": false,
+      "likesCount": 9,
+      "isReported": false,
+      "isHidden": false,
+      "createdAt": "2026-03-15T02:10:00Z"
+    },
+    {
+      "id": "comm-3",
+      "chapterId": "chap-1-1",
+      "parentId": null,
+      "authorName": "Marcus_K",
+      "isAuthor": false,
+      "content": "Wait, the clapper was sawn away by chisels... who silenced it, and why? The implication that something ascends when it chimes without a tongue is pure dread.",
+      "isSpoiler": false,
+      "likesCount": 9,
+      "isReported": false,
+      "isHidden": false,
+      "createdAt": "2026-03-16T18:05:00Z"
+    },
+    {
+      "id": "comm-4",
+      "chapterId": "chap-1-3",
+      "parentId": null,
+      "authorName": "S. Thorne",
+      "isAuthor": false,
+      "content": "The revelation about the terracotta pigeonholes being forgotten loved ones broke my heart. The psychological metaphor here is staggering.",
+      "isSpoiler": true,
+      "likesCount": 19,
+      "isReported": false,
+      "isHidden": false,
+      "createdAt": "2026-04-05T01:15:00Z"
+    },
+    {
+      "id": "comm-1792630430137-yzygs",
+      "chapterId": "chap-1-1",
+      "parentId": null,
+      "authorName": "Nocturnal Wanderer",
+      "isAuthor": false,
+      "content": "A test reflection from the fog",
+      "isSpoiler": false,
+      "likesCount": 1,
+      "isReported": false,
+      "isHidden": false,
+      "createdAt": "2026-10-22T00:53:50.137Z"
+    },
+    {
+      "id": "comm-1792632403083-9syxr",
+      "chapterId": "chap-1-1",
+      "parentId": "comm-3",
+      "authorName": "sdf",
+      "isAuthor": false,
+      "content": "sdf",
+      "isSpoiler": false,
+      "likesCount": 0,
+      "isReported": false,
+      "isHidden": false,
+      "createdAt": "2026-10-22T01:26:43.083Z"
+    }
+  ],
+  "lastBackupDate": "2026-10-21T17:30:00Z"
+}
